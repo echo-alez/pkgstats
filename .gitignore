@@ -1,0 +1,11 @@
+dist/
+.venv/
+
+pkgstats/__pycache__/
+pkgstats/__pycache__/pkgstats.cpython-313.pyc
+
+pkgstats.egg-info/
+
+tests/__pycache__/
+
+Contents-*
